@@ -7,6 +7,8 @@ npm i jaystation
 ```
 Example:
 ```
+var jay = require("jaystation")
+
 console.log(jay.GayPercent())
 // Output: JayStation is xx.x% gay.
 ```
