@@ -1,6 +1,6 @@
 {
   "name": "jaystation",
-  "version": "1.0.420",
+  "version": "2.0.2",
   "description": "A package made to mimic jaystation",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "dependencies": {
     "jaystation": "^1.0.10"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": [
+    "finished",
+    "youtube"
+  ]
 }
