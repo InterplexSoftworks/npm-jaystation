@@ -2,8 +2,7 @@ const randomNumberGenerator = require('./penis.js'); //assuming its on the same 
 const ratebig = randomNumberGenerator(1,99)
 const ratesmall = randomNumberGenerator(1,9)
 
-const GayRate =  `JayStation is ${ratebig}.${ratesmall}% gay.`
-
 exports.GayPercent = function() {
+    const GayRate =  `JayStation is ${ratebig}.${ratesmall}% gay.`
         return GayRate
     }
